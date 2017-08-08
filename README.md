@@ -9,5 +9,5 @@ A collection of useful Bash scripts
 * **Apache-Scripts**
     * A collection of scripts to do with managing Apache webservers
 * **Postfix-Dovecot-Scripts**
-    * A collection of scripts to help adminster a mail server
+    * A collection of scripts to help administer a mail server
 
